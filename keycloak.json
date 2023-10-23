@@ -1,6 +1,6 @@
 {
   "realm": "JavascriptApplications",
-  "auth-server-url": "http://18.194.38.11:8080/",
+  "auth-server-url": "http://3.125.46.56:8080/",
   "ssl-required": "none",
   "resource": "JavaScriptApplication2",
   "public-client": true,
